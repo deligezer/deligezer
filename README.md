@@ -22,3 +22,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deligezer&show_icons=true&locale=en&layout=compact" alt="deligezer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deligezer&show_icons=true&locale=en" alt="deligezer" /></p>
+
+![snake gif](https://github.com/deligezer/deligezer/blob/output/github-contribution-grid-snake.gif)
+
+
+
