@@ -1,12 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
+
 <h1 align="center">Hi 👋, I'm Zehra</h1>
 <h3 align="center">A passionate web developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deligezer&label=Profile%20views&color=0e75b6&style=flat" alt="deligezer" /> </p>
 
+- 🌱 I’m currently learning **ruby**
+
+- 📫 How to reach me **zehra.deligezer@bil.omu.edu.tr**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Zehra Deligezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zehra deligezer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zehra deligezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zehra deligezer" height="30" width="40" /></a>
 <a href="https://instagram.com/zehradlgzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zehradlgzr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zehradlgzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zehradlgzr" height="30" width="40" /></a>
 </p>
