@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deligezer&label=Profile%20views&color=0e75b6&style=flat" alt="deligezer" /> </p>
 
-- 🌱 I’m currently learning **ruby**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **zehra.deligezer@bil.omu.edu.tr**
 
