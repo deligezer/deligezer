@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deligezer&label=Profile%20views&color=0e75b6&style=flat" alt="deligezer" /> </p>
 
-- 🌱 I’m currently learning **nesne yönelimli programlama**
+- 🌱 I’m currently learning **Object Oriented Programming(OOP)**
 
 - 📫 How to reach me **zehra.deligezer@bil.omu.edu.tr**
 
